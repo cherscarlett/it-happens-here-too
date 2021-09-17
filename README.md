@@ -5,6 +5,7 @@ Created with 🖤 by Cher Scarlett.
 
 - [Press Advice](press-advice.md)
 - [Legal Resources](legal-resources.md)
+- [Wage Transparency Survey](https://github.com/cherscarlett/pay-transparency-survey)
 
 ## Introduction
 
