@@ -3,8 +3,8 @@ An open sourced version of the #AppleToo story sharing form
 
 Created with 🖤 by Cher Scarlett.
 
-(Press Advice)[press-advice.md]
-(Legal Resources)[legal-resources.md]
+[Press Advice](press-advice.md)
+[Legal Resources](legal-resources.md)
 
 ## Introduction
 
