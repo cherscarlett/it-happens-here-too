@@ -10,11 +10,11 @@
 
 5. We’ve compiled a list of vetted journalists that we have felt comfortable speaking to about workplace issues. We have also spoken with these journalists about our own Apple stories and this initiative. They are all working on longform, thoughtful stories and would be honored to share your stories and help you seek remedy and validation.
 
-Zoe Schiffer // The Verge - Signal: 805-455-4772 - https://twitter.com/ZoeSchiffer
-Shirin Ghaffary // Recode - Signal: 408-781-3034 - https://twitter.com/shiringhaffary 
-Bobby Allyn // NPR - Signal: 570-814-0887 - https://twitter.com/BobbyAllyn 
-Jack Nicas // The New York Times - Signal: 508-864-3864 - https://twitter.com/jacknicas 
-Reed Albergotti // The Washington Post - Signal: 212-327-3430 - https://twitter.com/ReedAlbergotti
-Hannah Towey // Business Insider - Signal: 203-524-4415 - https://twitter.com/ToweyHannah 
-Aman Kidwai // Fortune - Signal: 203-524-2799 - https://twitter.com/AmanfromCT 
-Dan Patterson // CBS News - Signal: 718-288-9993 - https://twitter.com/DanPatterson
+- Zoe Schiffer // The Verge - Signal: 805-455-4772 - https://twitter.com/ZoeSchiffer
+- Shirin Ghaffary // Recode - Signal: 408-781-3034 - https://twitter.com/shiringhaffary 
+- Bobby Allyn // NPR - Signal: 570-814-0887 - https://twitter.com/BobbyAllyn 
+- Jack Nicas // The New York Times - Signal: 508-864-3864 - https://twitter.com/jacknicas 
+- Reed Albergotti // The Washington Post - Signal: 212-327-3430 - https://twitter.com/ReedAlbergotti
+- Hannah Towey // Business Insider - Signal: 203-524-4415 - https://twitter.com/ToweyHannah 
+- Aman Kidwai // Fortune - Signal: 203-524-2799 - https://twitter.com/AmanfromCT 
+- Dan Patterson // CBS News - Signal: 718-288-9993 - https://twitter.com/DanPatterson
