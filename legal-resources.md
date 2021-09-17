@@ -14,26 +14,26 @@ Your NDA does not prevent you from reaching out to these resources, or from cons
 ## Here are the resources available for legal recourse:
 ### United States:
 #### Federal:
-**NLRB** - https://apps.nlrb.gov/MyAccount/#/ChargeAndPetition/TermsConditions - Focuses on issues of employee organisation. If you have been told not to discuss wages or working conditions with others’, file with this organisation.
-**EEOC** - https://www.eeoc.gov/how-file-charge-employment-discrimination - Focuses on discrimination issues. If you have faced racial, sexual, sexual orientation, religious, disability, or any similar discrimination, or have faced retaliation, file with this organisation.
-**USDJ** - https://civilrights.justice.gov/report/ - Focuses on discrimination issues. If you have faced racial, sexual, sexual orientation, religious, disability, or any similar discrimination, file with this organisation.
-**OSHA** - https://www.osha.gov/workers/file-complaint - Focuses on workplace safety. If you have faced an unsafe working environment, file with this organisation.
-**DoL** - https://www.dol.gov/agencies/whd/contact/complaints - Focuses on wages. If you have faced issues with getting paid during FMLA, or issues around overtime pay, file with this organisation.
+- **NLRB** - https://apps.nlrb.gov/MyAccount/#/ChargeAndPetition/TermsConditions - Focuses on issues of employee organisation. If you have been told not to discuss wages or working conditions with others’, file with this organisation.
+- **EEOC** - https://www.eeoc.gov/how-file-charge-employment-discrimination - Focuses on discrimination issues. If you have faced racial, sexual, sexual orientation, religious, disability, or any similar discrimination, or have faced retaliation, file with this organisation.
+- **USDJ** - https://civilrights.justice.gov/report/ - Focuses on discrimination issues. If you have faced racial, sexual, sexual orientation, religious, disability, or any similar discrimination, file with this organisation.
+- **OSHA** - https://www.osha.gov/workers/file-complaint - Focuses on workplace safety. If you have faced an unsafe working environment, file with this organisation.
+- **DoL** - https://www.dol.gov/agencies/whd/contact/complaints - Focuses on wages. If you have faced issues with getting paid during FMLA, or issues around overtime pay, file with this organisation.
 
 #### States
 ##### California:
-**DFEH** - https://www.dfeh.ca.gov/complaintprocess/?content=fileComplaint#fileComplaintBody -  Focuses on discrimination issues. If you have faced racial, sexual, sexual orientation, religious, disability, or any similar discrimination, or have faced harassment, file with this organisation.
-**Labor Commissioner** - https://www.dir.ca.gov/dlse/howtofilewageclaim.htm - Focuses on wages. If you have faced issues with getting paid during FMLA, or issues around overtime pay, file with this organisation.
+- **DFEH** - https://www.dfeh.ca.gov/complaintprocess/?content=fileComplaint#fileComplaintBody -  Focuses on discrimination issues. If you have faced racial, sexual, sexual orientation, religious, disability, or any similar discrimination, or have faced harassment, file with this organisation.
+- **Labor Commissioner** - https://www.dir.ca.gov/dlse/howtofilewageclaim.htm - Focuses on wages. If you have faced issues with getting paid during FMLA, or issues around overtime pay, file with this organisation.
 
 
 
-Texas:
-**TWC** - https://www.twc.texas.gov/jobseekers/how-submit-wage-claim-under-texas-payday-law - Focuses on wages. If you have faced issues with getting paid during FMLA, or issues around overtime pay, file with this organisation.
-**TWC** - https://www.twc.texas.gov/jobseekers/how-submit-employment-discrimination-complaint - Focuses on discrimination issues. If you have faced racial, sexual, sexual orientation, religious, disability, or any similar discrimination, or have faced retaliation, file with this organisation.
-**(Austin) OCR** - https://www.austintexas.gov/page/file-complaint-office-civil-rights - Focuses on discrimination issues. If you have faced racial, sexual, sexual orientation, religious, disability, or any similar discrimination, or have faced retaliation, file with this organisation. **Specific to Austin**
+##### Texas:
+- **TWC** - https://www.twc.texas.gov/jobseekers/how-submit-wage-claim-under-texas-payday-law - Focuses on wages. If you have faced issues with getting paid during FMLA, or issues around overtime pay, file with this organisation.
+- **TWC** - https://www.twc.texas.gov/jobseekers/how-submit-employment-discrimination-complaint - Focuses on discrimination issues. If you have faced racial, sexual, sexual orientation, religious, disability, or any similar discrimination, or have faced retaliation, file with this organisation.
+- **(Austin) OCR** - https://www.austintexas.gov/page/file-complaint-office-civil-rights - Focuses on discrimination issues. If you have faced racial, sexual, sexual orientation, religious, disability, or any similar discrimination, or have faced retaliation, file with this organisation. **Specific to Austin**
 
 #### United Kingdom:
-Tax Service - https://www.tax.service.gov.uk/digital-forms/open/form/pay-and-work-rights-complaint/draft/start#1 - Focuses on wages. If you have faced issues with overtime pay or work week length, file with this organisation
+- **Tax Service** - https://www.tax.service.gov.uk/digital-forms/open/form/pay-and-work-rights-complaint/draft/start#1 - Focuses on wages. If you have faced issues with overtime pay or work week length, file with this organisation
 
 
 ## Lawyers
@@ -44,25 +44,25 @@ Ask for a contingency contract (0 fee retainer).
 
 #### California:
 ##### LA/OC:
-https://www.calaborlaw.com/
-https://fairemploymentlawyers.com/
-https://www.amglaw.com/
-https://www.mattmurphylaw.com
-https://www.miraclemilelaw.com/
+- https://www.calaborlaw.com/
+- https://fairemploymentlawyers.com/
+- https://www.amglaw.com/
+- https://www.mattmurphylaw.com
+- https://www.miraclemilelaw.com/
 
 ##### San Francisco Area:
-https://www.civilrightsca.com/
-https://workplacelegalpc.com/
-https://www.californialaborlaw.info/
-https://www.minnisandsmallets.com/
+- https://www.civilrightsca.com/
+- https://workplacelegalpc.com/
+- https://www.californialaborlaw.info/
+- https://www.minnisandsmallets.com/
 
 ##### New York:
-https://www.nycjobattorney.com/
-https://www.amglaw.com/
+- https://www.nycjobattorney.com/
+- https://www.amglaw.com/
 
 ##### Texas:
-https://www.rosslawgroup.com/ 
-https://www.texasdiscriminationattorney.com/
+- https://www.rosslawgroup.com/ 
+- https://www.texasdiscriminationattorney.com/
 
 ##### Washington:
-https://www.civilrightsjusticecenter.com/
+- https://www.civilrightsjusticecenter.com/
