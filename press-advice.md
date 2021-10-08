@@ -1,6 +1,6 @@
 # Press Advice
 
-1. First and foremost, you can speak to whoever you choose to. You are legally allowed to speak about workplace issues without violating your NDA. This is protected by multiple legal entities. We caution you to not name names, use “leadership”, or “management”, or “colleagues”. We further caution you to not mention Apple products, or speak on behalf of Apple. 
+1. First and foremost, you can speak to whoever you choose to. You are legally allowed to speak about workplace issues without violating your NDA, in the United States. This is protected by multiple legal entities. We caution you to not name names, use “leadership”, or “management”, or “colleagues”. We further caution you to not mention Apple products, or speak on behalf of Apple. 
 
 2. Before naming anyone else involved in the effort, please get their permission. Preferably, give any journalist or press information to the person you think may be interested in speaking to the press, instead of giving the press their information. This allows folks to opt-in to consent, rather than opting out.
 
