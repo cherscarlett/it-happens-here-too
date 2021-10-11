@@ -13,7 +13,7 @@
 - Zoe Schiffer // The Verge - Signal: 1-805-455-4772 - https://twitter.com/ZoeSchiffer
 - Shirin Ghaffary // Recode - Signal: 1-408-781-3034 - https://twitter.com/shiringhaffary 
 - Katherine Bindley // The Wallstreet Journal - Signal: 1-847-858-1993 - https://twitter.com/katiebindley
-- Jack Nicas // The New York Times - Signal: 1-508-864-3864 - https://twitter.com/jacknicas 
+- Kellen Browning // The New York Times - Signal: 1-530-312-5216 - https://twitter.com/Kellen_Browning 
 - Reed Albergotti // The Washington Post - Signal: 1-212-327-3430 - https://twitter.com/ReedAlbergotti
 - Bobby Allyn // NPR - Signal: 1-570-814-0887 - https://twitter.com/BobbyAllyn 
 - James Clayton // BBC - Signal: 1-415-519-9409 - https://twitter.com/JamesClayton5
