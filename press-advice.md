@@ -12,8 +12,11 @@
 
 - Zoe Schiffer // NBC News - Signal: 1-805-455-4772 - https://twitter.com/ZoeSchiffer
 - Shirin Ghaffary // Recode - Signal: 1-408-781-3034 - https://twitter.com/shiringhaffary 
+- Julie Love // Reuters - Signa: 1-951-813-8390 - https://twitter.com/byJuliaLove
+- Kate Conger // New York Times - Signal: +1 (303) 888-4787 - https://twitter.com/kateconger
 - Maeve Allsup // Bloomberg Law - Signal: 1-970-739-9127 - https://twitter.com/maevemallsup
 - Katherine Bindley // The Wallstreet Journal - Signal: 1-847-858-1993 - https://twitter.com/katiebindley
+- Lauren Kaori Gurley // Vice - Signal: +1 (201) 897-2109 - https://twitter.com/laurenkgurley
 - Kellen Browning // The New York Times - Signal: 1-530-312-5216 - https://twitter.com/Kellen_Browning 
 - Reed Albergotti // The Washington Post - Signal: 1-212-327-3430 - https://twitter.com/ReedAlbergotti
 - Bobby Allyn // NPR - Signal: 1-570-814-0887 - https://twitter.com/BobbyAllyn 
@@ -22,3 +25,4 @@
 - Hannah Towey // Business Insider - Signal: 1-203-524-4415 - https://twitter.com/ToweyHannah
 - Martin Coulter // Business Insider - Signal: 44-7801-985586 - https://twitter.com/MartinJBCoulter
 - Aman Kidwai // Fortune - Signal: 1-203-524-2799 - https://twitter.com/AmanfromCT 
+- Josh Eidelson // Bloomberg and Businessweek - Signal: +1 (215) 828-9123 - https://twitter.com/josheidelson
