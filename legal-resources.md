@@ -75,6 +75,7 @@ Ask for a contingency contract (0 fee retainer).
 ##### New York:
 - https://www.nycjobattorney.com/
 - https://www.amglaw.com/
+- https://levyratner.com/
 
 #### Ohio:
 - https://www.workplacefairness.org/ohio-employment-attorneys - A listing of reputable employment lawyers provided by the Workplace Fairness organization.
