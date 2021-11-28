@@ -24,11 +24,11 @@
 - Angel Au-Yeung // Forbes - Signal: +1 (732) 991-1100 - https://twitter.com/AngelAuYeung
 - Lauren Kaori Gurley // Vice - Signal: +1 (201) 897-2109 - https://twitter.com/laurenkgurley
 - Reed Albergotti // The Washington Post - Signal: 1-212-327-3430 - https://twitter.com/ReedAlbergotti
-- Matt Drange // Business Insider - Signal: 1-626-233-1063 - https://twitter.com/mattdrange
 - Bobby Allyn // NPR - Signal: 1-570-814-0887 - https://twitter.com/BobbyAllyn 
 - James Clayton // BBC - Signal: 1-415-519-9409 - https://twitter.com/JamesClayton5
 - Dan Patterson // CBS News - Signal: 1-718-288-9993 - https://twitter.com/DanPatterson
 - Hannah Towey // Business Insider - Signal: 1-203-524-4415 - https://twitter.com/ToweyHannah
 - Martin Coulter // Business Insider - Signal: 44-7801-985586 - https://twitter.com/MartinJBCoulter
+- Matt Drange // Business Insider - Signal: 1-626-233-1063 - https://twitter.com/mattdrange
 - Aman Kidwai // Fortune - Signal: 1-203-524-2799 - https://twitter.com/AmanfromCT 
 - Josh Eidelson // Bloomberg and Businessweek - Signal: +1 (215) 828-9123 - https://twitter.com/josheidelson
