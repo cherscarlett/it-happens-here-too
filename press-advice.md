@@ -10,7 +10,7 @@
 
 5. We’ve compiled a list of vetted journalists that we have felt comfortable speaking to about workplace issues. We have also spoken with these journalists about our own employee stories and this initiative. They are all working on longform, thoughtful stories and would be honored to share your stories and help you seek remedy and validation.
 
-- Zoe Schiffer // The Verge - Signal: 1-805-455-4772 - https://twitter.com/ZoeSchiffer
+- Zoe Schiffer // NBC News - Signal: 1-805-455-4772 - https://twitter.com/ZoeSchiffer
 - Shirin Ghaffary // Recode - Signal: 1-408-781-3034 - https://twitter.com/shiringhaffary 
 - Katherine Bindley // The Wallstreet Journal - Signal: 1-847-858-1993 - https://twitter.com/katiebindley
 - Kellen Browning // The New York Times - Signal: 1-530-312-5216 - https://twitter.com/Kellen_Browning 
