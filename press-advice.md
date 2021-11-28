@@ -12,6 +12,7 @@
 
 - Zoe Schiffer // NBC News - Signal: 1-805-455-4772 - https://twitter.com/ZoeSchiffer
 - Shirin Ghaffary // Recode - Signal: 1-408-781-3034 - https://twitter.com/shiringhaffary 
+- Maeve Allsup // Bloomberg Law - Signal: 1-970-739-9127 - https://twitter.com/maevemallsup
 - Katherine Bindley // The Wallstreet Journal - Signal: 1-847-858-1993 - https://twitter.com/katiebindley
 - Kellen Browning // The New York Times - Signal: 1-530-312-5216 - https://twitter.com/Kellen_Browning 
 - Reed Albergotti // The Washington Post - Signal: 1-212-327-3430 - https://twitter.com/ReedAlbergotti
