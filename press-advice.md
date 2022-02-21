@@ -10,8 +10,8 @@
 
 5. We’ve compiled a list of vetted journalists that we have felt comfortable speaking to about workplace issues. We have also spoken with these journalists about our own employee stories and this initiative. They are all working on longform, thoughtful stories and would be honored to share your stories and help you seek remedy and validation.
 
-- Zoe Schiffer // NBC News - Signal: 1-805-455-4772 - https://twitter.com/ZoeSchiffer
-- Shirin Ghaffary // Recode - Signal: 1-408-781-3034 - https://twitter.com/shiringhaffary 
+- Zoe Schiffer // Vox Media (The Verge) - Signal: 1-805-455-4772 - https://twitter.com/ZoeSchiffer
+- Shirin Ghaffary // Vox Media (Recode) - Signal: 1-408-781-3034 - https://twitter.com/shiringhaffary 
 - Julie Love // Reuters - Signa: 1-951-813-8390 - https://twitter.com/byJuliaLove
 - Kate Conger // The New York Times - Signal: +1 (303) 888-4787 - https://twitter.com/kateconger
 - Erin Woo // The New York Times - Signal: - 1-470-658-6966 - https://twitter.com/erinkwoo
