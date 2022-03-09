@@ -13,7 +13,7 @@
 - Raise Bruner // TIME - Signal: 1-805-698-1964 - https://twitter.com/raisabruner
 - Zoe Schiffer // Vox Media (The Verge) - Signal: 1-805-455-4772 - https://twitter.com/ZoeSchiffer
 - Shirin Ghaffary // Vox Media (Recode) - Signal: 1-408-781-3034 - https://twitter.com/shiringhaffary 
-- Julie Love // Reuters - Signa: 1-951-813-8390 - https://twitter.com/byJuliaLove
+- Reed Albergotti // The Washington Post - Signal: 1-212-327-3430 - https://twitter.com/ReedAlbergotti
 - Kate Conger // The New York Times - Signal: +1 (303) 888-4787 - https://twitter.com/kateconger
 - Erin Woo // The New York Times - Signal: - 1-470-658-6966 - https://twitter.com/erinkwoo
 - Emma Goldberg // The New York Times - Signal: +1 (917) 743-7572 - https://twitter.com/emmabgo
@@ -24,7 +24,7 @@
 - Clare Duffy // CNN - Signal: +1 (929) 215-2786 - https://twitter.com/claresduffy
 - Sara O'Brien // CNN - Signal: 1-347-918-6733 - https://twitter.com/saraashleyo
 - Lauren Kaori Gurley // Vice - Signal: +1 (201) 897-2109 - https://twitter.com/laurenkgurley
-- Reed Albergotti // The Washington Post - Signal: 1-212-327-3430 - https://twitter.com/ReedAlbergotti
+- Julie Love // Reuters - Signa: 1-951-813-8390 - https://twitter.com/byJuliaLove
 - Bobby Allyn // NPR - Signal: 1-570-814-0887 - https://twitter.com/BobbyAllyn 
 - James Clayton // BBC - Signal: 1-415-519-9409 - https://twitter.com/JamesClayton5
 - Natalie Sherman // BBC - Signal: 1-410-800-8586 - https://twitter.com/shermannatalie
