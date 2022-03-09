@@ -22,7 +22,7 @@
 - Katherine Bindley // The Wallstreet Journal - Signal: 1-847-858-1993 - https://twitter.com/katiebindley
 - Sarah Needleman // The Wallstreet Journal - Signal: +1 (732) 991-1100 - https://twitter.com/saraheneedleman
 - Clare Duffy // CNN - Signal: +1 (929) 215-2786 - https://twitter.com/claresduffy
-- Sara O'Brien // CNN - 1-347-918-6733 - https://twitter.com/saraashleyo
+- Sara O'Brien // CNN - Signal: 1-347-918-6733 - https://twitter.com/saraashleyo
 - Lauren Kaori Gurley // Vice - Signal: +1 (201) 897-2109 - https://twitter.com/laurenkgurley
 - Reed Albergotti // The Washington Post - Signal: 1-212-327-3430 - https://twitter.com/ReedAlbergotti
 - Bobby Allyn // NPR - Signal: 1-570-814-0887 - https://twitter.com/BobbyAllyn 
