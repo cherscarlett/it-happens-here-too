@@ -10,6 +10,7 @@
 
 5. We’ve compiled a list of vetted journalists that we have felt comfortable speaking to about workplace issues. We have also spoken with these journalists about our own employee stories and this initiative. They are all working on longform, thoughtful stories and would be honored to share your stories and help you seek remedy and validation.
 
+- Raise Bruner // TIME - Signal: 1-805-698-1964 - https://twitter.com/raisabruner
 - Zoe Schiffer // Vox Media (The Verge) - Signal: 1-805-455-4772 - https://twitter.com/ZoeSchiffer
 - Shirin Ghaffary // Vox Media (Recode) - Signal: 1-408-781-3034 - https://twitter.com/shiringhaffary 
 - Julie Love // Reuters - Signa: 1-951-813-8390 - https://twitter.com/byJuliaLove
@@ -21,14 +22,16 @@
 - Katherine Bindley // The Wallstreet Journal - Signal: 1-847-858-1993 - https://twitter.com/katiebindley
 - Sarah Needleman // The Wallstreet Journal - Signal: +1 (732) 991-1100 - https://twitter.com/saraheneedleman
 - Clare Duffy // CNN - Signal: +1 (929) 215-2786 - https://twitter.com/claresduffy
-- Angel Au-Yeung // Forbes - Signal: +1 (732) 991-1100 - https://twitter.com/AngelAuYeung
+- Sara O'Brien // CNN - 1-347-918-6733 - https://twitter.com/saraashleyo
 - Lauren Kaori Gurley // Vice - Signal: +1 (201) 897-2109 - https://twitter.com/laurenkgurley
 - Reed Albergotti // The Washington Post - Signal: 1-212-327-3430 - https://twitter.com/ReedAlbergotti
 - Bobby Allyn // NPR - Signal: 1-570-814-0887 - https://twitter.com/BobbyAllyn 
 - James Clayton // BBC - Signal: 1-415-519-9409 - https://twitter.com/JamesClayton5
+- Natalie Sherman // BBC - Signal: 1-410-800-8586 - https://twitter.com/shermannatalie
 - Dan Patterson // CBS News - Signal: 1-718-288-9993 - https://twitter.com/DanPatterson
 - Hannah Towey // Business Insider - Signal: 1-203-524-4415 - https://twitter.com/ToweyHannah
 - Martin Coulter // Business Insider - Signal: 44-7801-985586 - https://twitter.com/MartinJBCoulter
 - Matt Drange // Business Insider - Signal: 1-626-233-1063 - https://twitter.com/mattdrange
+- Jane Thier // Fortune - Signal: 917-589-7964 - https://twitter.com/thier_jane
 - Aman Kidwai // Fortune - Signal: 1-203-524-2799 - https://twitter.com/AmanfromCT 
 - Josh Eidelson // Bloomberg and Businessweek - Signal: +1 (215) 828-9123 - https://twitter.com/josheidelson
